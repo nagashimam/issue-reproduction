@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "permitted-contents": [
+      {
+        "tag": "x-container",
+        "contents": [
+          {
+            "require": "x-item"
+          }
+        ]
+      }
+    ]
+  }
+}
